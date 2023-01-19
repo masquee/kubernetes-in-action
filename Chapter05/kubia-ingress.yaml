@@ -12,3 +12,5 @@ spec:
             backend:
               service:
                 name: kubia-nodeport
+                port:
+                  number: 80
